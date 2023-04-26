@@ -1,0 +1,4 @@
+asgiref @ file:///Users/ec2-user/ci_py311/asgiref_1678390266874/work
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1633432780726/work
+pytz @ file:///Users/ec2-user/ci_py311/pytz_1678318034461/work
+sqlparse @ file:///Users/ec2-user/ci_py311/sqlparse_1678394278812/work
